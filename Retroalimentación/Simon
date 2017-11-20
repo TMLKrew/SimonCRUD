@@ -1,0 +1,5 @@
+Hay que utilizar consultas preparadas
+
+El borrado de uno o varios registros en una sola sentencia.
+
+No informas de que se produce un error de clave duplicada. Capturas
